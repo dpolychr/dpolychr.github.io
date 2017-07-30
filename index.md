@@ -5,7 +5,8 @@ title: Dimitris Polychronopoulos
 
 ### About
 
-I'm a data scientist interested in computational genomics. I currently work as a Data Scientist for Genomics England within the 100 K Genomes project
+I'm a molecular biologist interested in computational genomics. 
+I currently work as a Data Scientist for Genomics England within the 100 K Genomes project. I am also a visiting scientist at Boris Lenhard's group at the MRC London Institute of Medical Sciences & Imperial College London.
 
 ### Contact
 
@@ -14,8 +15,5 @@ I'm a data scientist interested in computational genomics. I currently work as a
 - My [Google Scholar](https://scholar.google.com/citations?user=LsI4gg0AAAAJ) profile
 
 
-### Credit
-
-This site is based on the [Solo](http://chibicode.github.io/solo) design.  Courtesy of John D. Storey, the source code for this site is [also available on GitHub](https://github.com/jdstorey/jdstorey.github.io).
 
 

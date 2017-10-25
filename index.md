@@ -5,14 +5,16 @@ title: Dimitris Polychronopoulos
 
 ### About
 
-I come from beautiful and sunny Greece. I'm a molecular biologist ([BSc, Democritus University of Thrace](http://www.mbg.duth.gr/)) once trained as an experimentalist ([yeast times...](https://www.ncbi.nlm.nih.gov/pubmed/19661920)) and who has since then been interested in computational genomics ([MSc and PhD in Bioinformatics, University of Athens](http://www.demokritos.gr/?lang=en)). I currently work as a Data Scientist for [Genomics England](https://www.genomicsengland.co.uk/) within the [100 K Genomes project](https://en.wikipedia.org/wiki/100,000_Genomes_Project). Prior to that, I was an MRC Postdoctoral (and now visiting) scientist at [Boris Lenhard's group](https://lms.mrc.ac.uk/research-group/computational-regulatory-genomics/) at the MRC London Institute of Medical Sciences & Imperial College London working on a largely enigmatic class of genomic elements called Conserved Non-coding Elements (CNEs).
+I come from beautiful and sunny Greece. Born and raised in Gerakas, Athens, I always feel nostalgic when I visit my village Figaleia and the nearby temple of Apollo Epicurius in Peloponnese. 
+
+I'm a molecular biologist ([BSc, Democritus University of Thrace](http://www.mbg.duth.gr/)) once trained as an experimentalist ([yeast times...](https://www.ncbi.nlm.nih.gov/pubmed/19661920)) and who has since then been interested in bioinformatics and computational genomics ([MSc and PhD in Bioinformatics, University of Athens](http://www.demokritos.gr/?lang=en)). I currently work as a Data Scientist for [Genomics England](https://www.genomicsengland.co.uk/) within the [100 K Genomes project](https://en.wikipedia.org/wiki/100,000_Genomes_Project). Prior to that, I spent two years as an MRC Postdoctoral (and now visiting) scientist at [Boris Lenhard's group](https://lms.mrc.ac.uk/research-group/computational-regulatory-genomics/) at the MRC London Institute of Medical Sciences & Imperial College London working on a largely enigmatic class of genomic elements called Conserved Non-coding Elements (CNEs).
 
 ### Contact
 
 - GitHub: [dpolychr](https://github.com/dpolychr)
 - Twitter: [@dpolychr2](https://twitter.com/dpolychr2)
 - My [Google Scholar](https://scholar.google.com/citations?user=LsI4gg0AAAAJ) profile
-
+- My [Pubmed](https://www.ncbi.nlm.nih.gov/pubmed/?term=Polychronopoulos+D) publications
 
 
 

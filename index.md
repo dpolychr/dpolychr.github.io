@@ -11,7 +11,7 @@ I'm a molecular biologist ([BSc, Democritus University of Thrace](http://www.mbg
 
 A copy of my current CV can be found here: [CV](https://www.dropbox.com/s/o9eaaapkkplorkm/Polychronopoulos_cv_en.pdf?dl=0)
 
-You can find an interview by [Lifebit](https://lifebit.ai/) briefly describing the work we are doing at Genomics England [here](https://blog.lifebit.ai/2018/11/28/on-the-frontlines-of-rare-disease-diagnosis-dr-dimitris-polychronopoulos-and-dr-kristina-ibanez-garikano-genomics-england/)  
+You can find an interview by [Lifebit](https://lifebit.ai/) providing a very general and brief overview of the work we are doing at Genomics England [here](https://blog.lifebit.ai/2018/11/28/on-the-frontlines-of-rare-disease-diagnosis-dr-dimitris-polychronopoulos-and-dr-kristina-ibanez-garikano-genomics-england/)  
 
 ### Contact
 

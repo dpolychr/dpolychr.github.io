@@ -21,5 +21,5 @@ You can find an interview by [Lifebit](https://lifebit.ai/) providing a very gen
 - [Pubmed](https://www.ncbi.nlm.nih.gov/pubmed/?term=Polychronopoulos+D) publications
 - [LinkedIn](https://uk.linkedin.com/in/dimitris-polychronopoulos-b3732a134)
 
-
-
+### Trivia
+My [Erdős number](https://www.oakland.edu/enp/) is at most 4 via Philipp Bucher → Samuel Karlin → Alan Pinkus → Paul Erdős.

@@ -22,4 +22,4 @@ You can find an interview by [Lifebit](https://lifebit.ai/) providing a very gen
 - [LinkedIn](https://uk.linkedin.com/in/dimitris-polychronopoulos-b3732a134)
 
 ### Trivia
-My [Erdős number](https://www.oakland.edu/enp/) is at most 4 via Philipp Bucher → Samuel Karlin → Alan Pinkus → Paul Erdős.
+My [Erdős number](https://www.oakland.edu/enp/) is at most 4 via Philipp Bucher → Samuel Karlin → Allan Pinkus → Paul Erdős.

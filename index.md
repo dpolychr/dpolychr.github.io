@@ -18,7 +18,7 @@ You can find an interview by [Lifebit](https://lifebit.ai/) providing a very gen
 - GitHub: [dpolychr](https://github.com/dpolychr)
 - Twitter: [@dpolychr2](https://twitter.com/dpolychr2)
 - [Google Scholar](https://scholar.google.com/citations?user=LsI4gg0AAAAJ) profile
-- [Pubmed](https://www.ncbi.nlm.nih.gov/pubmed/?term=Polychronopoulos+D) publications
+- [Pubmed](https://www.ncbi.nlm.nih.gov/pubmed/?term=Polychronopoulos+D+AND+(conserved+noncoding+elements+OR+genomics+england+OR+MRC+OR+ctf4+OR+BioASQ)) publications
 - [LinkedIn](https://uk.linkedin.com/in/dimitris-polychronopoulos-b3732a134)
 
 ### Trivia

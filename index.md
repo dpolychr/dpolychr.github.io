@@ -16,7 +16,9 @@ A copy of my current CV can be found here: [CV](https://www.dropbox.com/s/vmmr1k
 - GitHub: [dpolychr](https://github.com/dpolychr)
 - Twitter: [@dpolychr2](https://twitter.com/dpolychr2)
 - [Google Scholar](https://scholar.google.com/citations?user=LsI4gg0AAAAJ) profile
-- [Pubmed](https://www.ncbi.nlm.nih.gov/pubmed/?term=Polychronopoulos+D+AND+(conserved+noncoding+elements+OR+genomics+england+OR+MRC+OR+ctf4+OR+BioASQ)+OR+%22Genomics+England+Research+Consortium%22) publications
+- Publications
+  -[Pubmed](https://www.ncbi.nlm.nih.gov/pubmed/?term=Polychronopoulos+D+AND+(conserved+noncoding+elements+OR+genomics+england+OR+MRC+OR+ctf4+OR+BioASQ)+OR+%22Genomics+England+Research+Consortium%22) 
+  -[dblp] (https://dblp.uni-trier.de/pers/hd/p/Polychronopoulos:Dimitris)
 - [LinkedIn](https://uk.linkedin.com/in/dimitris-polychronopoulos-b3732a134)
 
 ### Trivia

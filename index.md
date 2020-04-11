@@ -15,7 +15,7 @@ A copy of my current CV can be found here: [CV](https://www.dropbox.com/s/vmmr1k
 
 - [Google Scholar](https://scholar.google.com/citations?user=LsI4gg0AAAAJ) profile
 - Publications
-  - [Pubmed](https://www.ncbi.nlm.nih.gov/pubmed?term=(Polychronopoulos%20D.)%20NOT%201991%5BDate%20-%20Publication%5D) 
+  - [Pubmed](https://www.ncbi.nlm.nih.gov/pubmed/?term=((Polychronopoulos+D.)+NOT+2010%5BDate+-+Publication%5D+NOT+1991%5BDate+-+Publication%5D)) 
   - [dblp](https://dblp.uni-trier.de/pers/hd/p/Polychronopoulos:Dimitris)
 
 ### Contact / Connect via

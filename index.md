@@ -19,7 +19,7 @@ A copy of my current CV can be found here: [CV](https://www.dropbox.com/s/vmmr1k
   - [dblp](https://dblp.uni-trier.de/pers/hd/p/Polychronopoulos:Dimitris)
 
 ### LATEST NEWS
-** I am going to be at the Programme Committee of [ECBB 2020](https://twitter.com/eccb2020?lang=en) **
+**I am going to be at the Programme Committee of [ECBB 2020](https://twitter.com/eccb2020?lang=en)**
 
 
 ### Contact / Connect via

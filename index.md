@@ -18,6 +18,10 @@ A copy of my current CV can be found here: [CV](https://www.dropbox.com/s/vmmr1k
   - [Pubmed](https://www.ncbi.nlm.nih.gov/pubmed/?term=((Polychronopoulos+D.)+NOT+2010%5BDate+-+Publication%5D+NOT+1991%5BDate+-+Publication%5D)) 
   - [dblp](https://dblp.uni-trier.de/pers/hd/p/Polychronopoulos:Dimitris)
 
+### LATEST NEWS
+** I am going to be at the Programme Committee of [ECBB 2020](https://twitter.com/eccb2020?lang=en) **
+
+
 ### Contact / Connect via
 
 - GitHub: [dpolychr](https://github.com/dpolychr)

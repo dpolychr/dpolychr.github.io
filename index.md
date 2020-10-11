@@ -11,7 +11,7 @@ I'm a molecular biologist ([BSc, Democritus University of Thrace](http://www.mbg
 
 Have published papers as first or corresponding author in peer-reviewed journals in diverse fields including experimental biology, machine Learning, N-gram graphs, computational genomics, algorithm development in computational biology and next generation sequencing. Member of the Genomics England Research Consortium and also member of the BioASQ project.
 
-A copy of my current CV can be found here: [CV](https://www.dropbox.com/s/vmmr1kck2ib6edk/Polychronopoulos_cv_en.pdf?dl=0)
+A copy of my current CV can be found here: [CV](https://www.dropbox.com/s/yazd41wvo03ljk2/polychronopoulos_cv_en.pdf?dl=0)
 
 - [Google Scholar](https://scholar.google.com/citations?user=LsI4gg0AAAAJ) profile
 - Publications

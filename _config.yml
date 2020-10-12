@@ -2,3 +2,6 @@ theme: jekyll-theme-cayman
 title: Dimitris Polychronopoulos, Ph.D
 tag_text: Dimitris Polychronopoulos
 description: Welcome to my personal website (still under development...)
+pages:
+  markdown:
+    extra: true

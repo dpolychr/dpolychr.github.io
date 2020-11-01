@@ -1,7 +1,8 @@
 theme: jekyll-theme-cayman
 title: Dimitris Polychronopoulos, Ph.D
 tag_text: Dimitris Polychronopoulos
-description: Welcome to my personal website
+description: “I... a universe of atoms, an atom in the universe.” ― Richard P. Feynman
+
 pages:
   markdown:
     extra: true

@@ -3,6 +3,9 @@ layout: default
 title: Dimitris Polychronopoulos
 ---
 
+<img src="Dimitris_Rafina.JPG"/>
+
+
 ### About
 <div class="myWrapper" markdown="1">
 I come from beautiful Greece. Born and raised in Gerakas, Athens, I always feel nostalgic when I visit my village Figaleia and the nearby temple of [Apollo Epicurius](https://whc.unesco.org/en/list/392/) in Peloponnese. 

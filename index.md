@@ -22,7 +22,7 @@ A copy of my current CV can be found here: [CV](https://www.dropbox.com/s/yazd41
   - [dblp](https://dblp.uni-trier.de/pers/hd/p/Polychronopoulos:Dimitris)
 
 ### LATEST NEWS
-**I am going to be at the Programme Committee of [ECBB 2020](https://twitter.com/eccb2020?lang=en)**
+**Abstract accepted at [SITC 2020](https://sitc.sitcancer.org/2020/abstracts/titles/)**
 
 
 ### Contact / Connect via

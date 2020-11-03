@@ -25,11 +25,12 @@ A copy of my current CV can be found here: [CV](https://www.dropbox.com/s/yazd41
 **Abstract accepted at [SITC 2020](https://sitc.sitcancer.org/2020/abstracts/titles/)**
 
 
-### Contact / Connect via
+### Connect via
 
 - GitHub: [dpolychr](https://github.com/dpolychr)
 - Twitter: [@dpolychr2](https://twitter.com/dpolychr2)
 - [LinkedIn](https://uk.linkedin.com/in/dimitris-polychronopoulos-b3732a134)
+- [Facebook](https://www.facebook.com/dimitris.polychronopoulos.353)
 
 ### Trivia
 My [Erdős number](https://www.oakland.edu/enp/) is at most 4 via Philipp Bucher → Samuel Karlin → Allan Pinkus → Paul Erdős.

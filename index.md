@@ -22,8 +22,8 @@ A copy of my current CV can be found here: [CV](https://www.dropbox.com/s/yazd41
   - [dblp](https://dblp.uni-trier.de/pers/hd/p/Polychronopoulos:Dimitris)
 
 ### LATEST NEWS
-**Abstract accepted at [SITC 2020](https://sitc.sitcancer.org/2020/abstracts/titles/)**
-**Paper [Whole genome sequencing for diagnosis of neurological repeat expansion disorders](https://www.biorxiv.org/content/10.1101/2020.11.06.371716v1?fbclid=IwAR3HUKX3pgqy-90iGGdphCLwkeWE6hAYGsToTUnR3V5XutX-EBSsb7az7Tc) submitted to Biorxiv**
+- **Abstract accepted at [SITC 2020](https://sitc.sitcancer.org/2020/abstracts/titles/)**
+- **Paper [Whole genome sequencing for diagnosis of neurological repeat expansion disorders](https://www.biorxiv.org/content/10.1101/2020.11.06.371716v1?fbclid=IwAR3HUKX3pgqy-90iGGdphCLwkeWE6hAYGsToTUnR3V5XutX-EBSsb7az7Tc) submitted to Biorxiv**
 
 
 

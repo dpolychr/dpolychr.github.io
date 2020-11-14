@@ -36,7 +36,9 @@ A copy of my current CV can be found here: [CV](https://www.dropbox.com/s/yazd41
 
 ### Trivia
 My [Erdős number](https://www.oakland.edu/enp/) is at most 4 via Philipp Bucher → Samuel Karlin → Allan Pinkus → Paul Erdős.
-</div>
 
 <script type="text/javascript" src="https://www.counters-free.net/count/7ufh"></script><br>
  <a href='http://www.counterliczniki.com'>licznik odwiedzin strony</a> <script type='text/javascript' src='https://whomania.com/ctr?id=ae87b6578afe6aaf8eec91649bcf7f2491d21b5d'></script>
+
+</div>
+

@@ -3,7 +3,7 @@ layout: default
 title: Dimitris Polychronopoulos
 ---
 
-<img src="Dimitris_Rafina.JPG"/>
+<img src="Plane_photo.jpg"/>
 
 
 ### About

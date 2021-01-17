@@ -30,6 +30,7 @@ A copy of my current CV can be found here: [CV](https://www.dropbox.com/s/yazd41
 
 ### Connect via
 
+- [ResearchGate](https://www.researchgate.net/profile/Dimitris_Polychronopoulos)
 - [GitHub](https://github.com/dpolychr)
 - [Twitter](https://twitter.com/dpolychr2)
 - [LinkedIn](https://uk.linkedin.com/in/dimitris-polychronopoulos-b3732a134)

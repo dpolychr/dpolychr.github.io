@@ -3,7 +3,7 @@ layout: default
 title: Dimitris Polychronopoulos
 ---
 
-<img src="Plane_photo.jpg"/>
+<!-- <img src="Plane_photo.jpg"/> -->
 
 
 ### About

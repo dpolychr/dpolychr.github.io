@@ -35,8 +35,6 @@ A copy of my current CV can be found here: [CV](https://www.dropbox.com/s/yazd41
 - [GitHub](https://github.com/dpolychr)
 - [Twitter](https://twitter.com/dpolychr2)
 - [LinkedIn](https://uk.linkedin.com/in/dimitris-polychronopoulos-b3732a134)
-- [Facebook](https://www.facebook.com/dimitris.polychronopoulos.353)
-- [Instagram](https://www.instagram.com/dpolychr/)
 
 ### Trivia
 My [Erdős number](https://www.oakland.edu/enp/) is at most 3 via Costas S. Iliopoulos → David E. Daykin → Paul Erdős.

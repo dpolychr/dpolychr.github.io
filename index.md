@@ -25,6 +25,8 @@ A copy of my current CV can be found here: [CV](https://www.dropbox.com/s/yazd41
 - **Paper accepted at [Journal for Immunotherapy of Cancer - IF:10.252](https://jitc.bmj.com/content/8/Suppl_3/A165)**
 - **Paper [Whole genome sequencing for diagnosis of neurological repeat expansion disorders](https://www.biorxiv.org/content/10.1101/2020.11.06.371716v1?fbclid=IwAR3HUKX3pgqy-90iGGdphCLwkeWE6hAYGsToTUnR3V5XutX-EBSsb7az7Tc) submitted to Biorxiv**
 - **I will be presenting with Miika at the University of Cambridge about [*AstraZeneca Oncology Bioinformatics case studies and the skill sets we value*](http://talks.cam.ac.uk/talk/index/151051)**
+- **I will be presenting about Knowledge Graphs for Drug Discovery at the [*BioDataWorldCongress*](https://www.terrapinn.com/conference/biodata/speakers.stm)**
+
 
 ### BLOGS
 [Interview](https://blog.lifebit.ai/2018/11/28/on-the-frontlines-of-rare-disease-diagnosis-dr-dimitris-polychronopoulos-and-dr-kristina-ibanez-garikano-genomics-england/) from [Lifebit](https://lifebit.ai/) about my involvement in the 100K Genomes Project 

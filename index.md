@@ -4,6 +4,7 @@ title: Dimitris Polychronopoulos
 ---
 
 <!-- <img src="Plane_photo.jpg"/> -->
+<img src="linkedin.jpg"/>
 
 
 ### About

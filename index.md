@@ -26,7 +26,7 @@ A copy of my current CV can be found here: [CV](https://www.dropbox.com/s/5tjsli
 - **Paper [Whole genome sequencing for diagnosis of neurological repeat expansion disorders](https://www.biorxiv.org/content/10.1101/2020.11.06.371716v1?fbclid=IwAR3HUKX3pgqy-90iGGdphCLwkeWE6hAYGsToTUnR3V5XutX-EBSsb7az7Tc) submitted to Biorxiv**
 - **I will be presenting with Miika at the University of Cambridge about [*AstraZeneca Oncology Bioinformatics case studies and the skill sets we value*](http://talks.cam.ac.uk/talk/index/151051)**
 - **I will be presenting about Knowledge Graphs for Drug Discovery at the [*BioDataWorldCongress*](https://www.terrapinn.com/conference/biodata/speakers.stm)**
-- **Our work on [Knowledge Graph-based Recommendation Framework Identifies Novel Drivers of Resistance in EGFR mutant Non-small Cell Lung Cancer](https://www.biorxiv.org/content/10.1101/2021.07.23.453506v1) is out on Biorxiv. We present a RecSys framework built on top of a heterogeneous knowledge graph to rerank CRISPR hits with the aim to elucidate resistance mechanisms arising when treating NSCLC
+- **Our work on [Knowledge Graph-based Recommendation Framework Identifies Novel Drivers of Resistance in EGFR mutant Non-small Cell Lung Cancer](https://www.biorxiv.org/content/10.1101/2021.07.23.453506v1) is out on Biorxiv. We present a RecSys framework built on top of a heterogeneous knowledge graph to rerank CRISPR hits with the aim to elucidate resistance mechanisms arising when treating NSCLC**
 
 
 ### BLOGS

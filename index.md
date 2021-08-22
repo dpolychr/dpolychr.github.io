@@ -16,15 +16,12 @@ My work spans various fields including medicine (rare diseases and cancer), expe
 
 A copy of my current CV can be found here: [CV](https://www.dropbox.com/s/5tjslideftulyw9/Polychronopoulos_cv_en.pdf?dl=0)
 
-- [Google Scholar](https://scholar.google.com/citations?user=LsI4gg0AAAAJ) profile
-- Publications
-  - [Pubmed](https://www.ncbi.nlm.nih.gov/pubmed/?term=((Polychronopoulos+D.)+NOT+2010%5BDate+-+Publication%5D+NOT+1991%5BDate+-+Publication%5D)) 
-  - [dblp](https://dblp.uni-trier.de/pers/hd/p/Polychronopoulos:Dimitris)
+- [Google Scholar](https://scholar.google.com/citations?user=LsI4gg0AAAAJ)
+- [Scopus](https://www.scopus.com/authid/detail.uri?authorId=57211826120)
+- [Pubmed](https://www.ncbi.nlm.nih.gov/pubmed/?term=((Polychronopoulos+D.)+NOT+2010%5BDate+-+Publication%5D+NOT+1991%5BDate+-+Publication%5D)) 
+- [dblp](https://dblp.uni-trier.de/pers/hd/p/Polychronopoulos:Dimitris)
 
 ### LATEST NEWS
-- **Paper accepted at [Journal for Immunotherapy of Cancer - IF:10.252](https://jitc.bmj.com/content/8/Suppl_3/A165)**
-- **Paper [Whole genome sequencing for diagnosis of neurological repeat expansion disorders](https://www.biorxiv.org/content/10.1101/2020.11.06.371716v1?fbclid=IwAR3HUKX3pgqy-90iGGdphCLwkeWE6hAYGsToTUnR3V5XutX-EBSsb7az7Tc) submitted to Biorxiv**
-- **I will be presenting with Miika at the University of Cambridge about [*AstraZeneca Oncology Bioinformatics case studies and the skill sets we value*](http://talks.cam.ac.uk/talk/index/151051)**
 - **I will be presenting about Knowledge Graphs for Drug Discovery at the [*BioDataWorldCongress*](https://www.terrapinn.com/conference/biodata/speakers.stm)**
 - **Our work on [Knowledge Graph-based Recommendation Framework Identifies Novel Drivers of Resistance in EGFR mutant Non-small Cell Lung Cancer](https://www.biorxiv.org/content/10.1101/2021.07.23.453506v1) is out on Biorxiv. We present a RecSys framework built on top of a heterogeneous knowledge graph to rerank CRISPR hits with the aim to elucidate resistance mechanisms arising when treating NSCLC**
 

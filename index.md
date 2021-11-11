@@ -28,6 +28,7 @@ A copy of my current CV can be found here: [CV](https://www.dropbox.com/s/5tjsli
 ### LATEST NEWS
 - **I will be presenting about Knowledge Graphs for Drug Discovery at the [*BioDataWorldCongress*](https://www.terrapinn.com/conference/biodata/speakers.stm)**
 - **Our work on [Knowledge Graph-based Recommendation Framework Identifies Novel Drivers of Resistance in EGFR mutant Non-small Cell Lung Cancer](https://www.biorxiv.org/content/10.1101/2021.07.23.453506v1) is out on Biorxiv. We present a RecSys framework built on top of a heterogeneous knowledge graph to rerank CRISPR hits with the aim to elucidate resistance mechanisms arising when treating NSCLC**
+- **[Our pilot study](https://www.nejm.org/doi/full/10.1056/NEJMoa2035790?fbclid=IwAR3_GnsHjHJQmGCcRL4oM_m3YqVCHVr8chHCTeRYNyju4bqPpcTQt75zFjk) of whole genome sequencing (WGS) in rare disease diagnosis in a national health care system published today at The New England Journal of Medicine**
 
 
 ### BLOGS

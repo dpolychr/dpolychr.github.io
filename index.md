@@ -18,7 +18,7 @@ During the later times of my academic life, I spent two years as an MRC Postdoct
 
 My work spans various fields including medicine (rare diseases and cancer), experimental biology, machine Learning, N-gram graphs, computational genomics, algorithm development in computational biology and next generation sequencing, and has been published in peer-reviewed journals including Nature, Nucleic Acids Research, Genome Research, Bioinformatics.
 
-A copy of my current CV can be found here: [CV](https://www.dropbox.com/s/5tjslideftulyw9/Polychronopoulos_cv_en.pdf?dl=0)
+A copy of my current CV can be found here: [CV](https://www.dropbox.com/s/irgvmpkj5yas18c/Polychronopoulos_cv_en.pdf?dl=0)
 
 - [Google Scholar](https://scholar.google.com/citations?user=LsI4gg0AAAAJ)
 - [Scopus](https://www.scopus.com/authid/detail.uri?authorId=57211826120)

@@ -16,7 +16,7 @@ I currently work as an Associate Director, Oncology Bioinformatics & Data Scienc
 
 During the later times of my academic life, I spent two years as an MRC Postdoctoral (and now visiting) scientist at [Boris Lenhard's group](http://group.genereg.net/people/alumni/) at the MRC London Institute of Medical Sciences & Imperial College London working on a largely enigmatic class of genomic elements called [Conserved Non-coding Elements (CNEs)](https://academic.oup.com/nar/advance-article/doi/10.1093/nar/gkx1074/4599184). I am also a visiting scientist at the [NCSR Demokritos](http://www.demokritos.gr/?lang=en) where I participate in the [BioASQ project](http://bioasq.org/). 
 
-My work spans various fields including medicine (rare diseases and cancer), experimental biology, machine Learning, N-gram graphs, computational genomics, algorithm development in computational biology and next generation sequencing, and has been published in peer-reviewed journals including Nature, Nucleic Acids Research, Genome Research, Bioinformatics.
+My work spans various fields including medicine (rare diseases and cancer), experimental biology, machine Learning, N-gram graphs, computational genomics, algorithm development in computational biology and next generation sequencing, and has been published in peer-reviewed journals including NEJM, Nature, Nature Cancer, Nucleic Acids Research, Genome Research, Bioinformatics.
 
 A copy of my current CV can be found here: [CV](https://www.dropbox.com/s/irgvmpkj5yas18c/Polychronopoulos_cv_en.pdf?dl=0)
 

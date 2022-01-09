@@ -31,6 +31,8 @@ A copy of my current CV can be found here: [CV](https://www.dropbox.com/s/irgvmp
 - **I will be a Facilitator under the Target Identification Track at the [AUGMENTED INTELLIGENCE IN DRUG DISCOVERY XCHANGE
 EUROPE 2021](https://www.hub-xchange.com/augmented-intelligence-in-drug-delivery-xchange-europe-2021/#anchor2![image](https://user-images.githubusercontent.com/5985864/143678358-dd642e06-d8e2-4949-97d5-ad790eace099.png)
 )**
+- ** I will be speaking at the [ML con 2022](https://cnvrg.io/mlcon/)**
+
 
 
 

@@ -32,7 +32,7 @@ A copy of my current CV can be found here: [CV](https://www.dropbox.com/s/5r2f4j
 EUROPE 2021](https://www.hub-xchange.com/augmented-intelligence-in-drug-delivery-xchange-europe-2021/#anchor2![image](https://user-images.githubusercontent.com/5985864/143678358-dd642e06-d8e2-4949-97d5-ad790eace099.png)
 )**
 - **I will be speaking with Miika at the [ML con 2022](https://cnvrg.io/mlcon/) about how we use AI and Knowledge Graphs in Oncology R&D at Astrazeneca** 
-- **Happy to join the Editorial Board of [BMC Medical Genomics](https://bmcmedgenomics.biomedcentral.com/about/editorial-board)
+- **Happy to join the Editorial Board of [BMC Medical Genomics](https://bmcmedgenomics.biomedcentral.com/about/editorial-board)**
 
 
 

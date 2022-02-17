@@ -33,8 +33,7 @@ EUROPE 2021](https://www.hub-xchange.com/augmented-intelligence-in-drug-delivery
 )**
 - **I will be speaking with Miika at the [ML con 2022](https://cnvrg.io/mlcon/) about how we use AI and Knowledge Graphs in Oncology R&D at Astrazeneca** 
 - **Happy to join the Editorial Board of [BMC Medical Genomics](https://bmcmedgenomics.biomedcentral.com/about/editorial-board)**
-
-
+- **[Our study](https://www.thelancet.com/journals/laneur/article/PIIS1474-4422(21)00462-2/fulltext) on Whole genome sequencing for the diagnosis of neurological repeat expansion disorders in the UK: a retrospective diagnostic accuracy and prospective clinical validation study published at The Lancet Neurology**
 
 
 

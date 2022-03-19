@@ -26,19 +26,9 @@ A copy of my current CV can be found here: [CV](https://www.dropbox.com/s/5r2f4j
 - [dblp](https://dblp.uni-trier.de/pers/hd/p/Polychronopoulos:Dimitris)
 
 ### LATEST NEWS
-- **Our work on [Knowledge Graph-based Recommendation Framework Identifies Novel Drivers of Resistance in EGFR mutant Non-small Cell Lung Cancer](https://www.biorxiv.org/content/10.1101/2021.07.23.453506v1) is out on Biorxiv. We present a RecSys framework built on top of a heterogeneous knowledge graph to rerank CRISPR hits with the aim to elucidate resistance mechanisms arising when treating NSCLC**
-- **[Our pilot study](https://www.nejm.org/doi/full/10.1056/NEJMoa2035790?fbclid=IwAR3_GnsHjHJQmGCcRL4oM_m3YqVCHVr8chHCTeRYNyju4bqPpcTQt75zFjk) of whole genome sequencing (WGS) in rare disease diagnosis in a national health care system published at The New England Journal of Medicine**
-- **I will be a Facilitator under the Target Identification Track at the [AUGMENTED INTELLIGENCE IN DRUG DISCOVERY XCHANGE
-EUROPE 2021](https://www.hub-xchange.com/augmented-intelligence-in-drug-delivery-xchange-europe-2021/#anchor2![image](https://user-images.githubusercontent.com/5985864/143678358-dd642e06-d8e2-4949-97d5-ad790eace099.png)
-)**
-- **I will be speaking with Miika at the [ML con 2022](https://cnvrg.io/mlcon/) about how we use AI and Knowledge Graphs in Oncology R&D at Astrazeneca** 
+- **[Our pilot study](https://www.nejm.org/doi/full/10.1056/NEJMoa2035790?fbclid=IwAR3_GnsHjHJQmGCcRL4oM_m3YqVCHVr8chHCTeRYNyju4bqPpcTQt75zFjk) of whole genome sequencing (WGS) in rare disease diagnosis in a national health care system published at The New England Journal of Medicine** 
 - **Happy to join the Editorial Board of [BMC Medical Genomics](https://bmcmedgenomics.biomedcentral.com/about/editorial-board)**
 - **[Our study](https://www.thelancet.com/journals/laneur/article/PIIS1474-4422(21)00462-2/fulltext) on "Whole genome sequencing for the diagnosis of neurological repeat expansion disorders in the UK: a retrospective diagnostic accuracy and prospective clinical validation study" published at The Lancet Neurology**
-
-
-
-### BLOGS
-[Interview](https://blog.lifebit.ai/2018/11/28/on-the-frontlines-of-rare-disease-diagnosis-dr-dimitris-polychronopoulos-and-dr-kristina-ibanez-garikano-genomics-england/) from [Lifebit](https://lifebit.ai/) about my involvement in the 100K Genomes Project 
 
 ### Connect via
 

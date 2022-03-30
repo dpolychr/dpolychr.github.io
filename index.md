@@ -29,6 +29,7 @@ A copy of my current CV can be found here: [CV](https://www.dropbox.com/s/5r2f4j
 - **[Our pilot study](https://www.nejm.org/doi/full/10.1056/NEJMoa2035790?fbclid=IwAR3_GnsHjHJQmGCcRL4oM_m3YqVCHVr8chHCTeRYNyju4bqPpcTQt75zFjk) of whole genome sequencing (WGS) in rare disease diagnosis in a national health care system published at The New England Journal of Medicine** 
 - **Happy to join the Editorial Board of [BMC Medical Genomics](https://bmcmedgenomics.biomedcentral.com/about/editorial-board)**
 - **[Our study](https://www.thelancet.com/journals/laneur/article/PIIS1474-4422(21)00462-2/fulltext) on "Whole genome sequencing for the diagnosis of neurological repeat expansion disorders in the UK: a retrospective diagnostic accuracy and prospective clinical validation study" published at The Lancet Neurology**
+- **[Our latest publication in Nature Communications](https://www.nature.com/articles/s41467-022-29292-7) describes the application of knowledge graphs to CRISPR screens to identify novel drivers of resistance to cancer treatments.
 
 ### Connect via
 

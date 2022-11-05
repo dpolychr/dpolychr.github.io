@@ -3,7 +3,7 @@ layout: default
 title: Dimitris Polychronopoulos
 ---
 
-<img src="linkedin.jpg"/>
+<img src="PolychronopoulosD_Photo2022.jpg"/>
 
 
 ### About

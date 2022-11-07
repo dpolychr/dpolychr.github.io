@@ -30,7 +30,7 @@ A copy of my current CV can be found here: [CV](https://drive.google.com/file/d/
 - **Happy to join the Editorial Board of [BMC Medical Genomics](https://bmcmedgenomics.biomedcentral.com/about/editorial-board)**
 - **[Our study](https://www.thelancet.com/journals/laneur/article/PIIS1474-4422(21)00462-2/fulltext) on "Whole genome sequencing for the diagnosis of neurological repeat expansion disorders in the UK: a retrospective diagnostic accuracy and prospective clinical validation study" published at The Lancet Neurology**
 - **[Our latest publication in Nature Communications](https://www.nature.com/articles/s41467-022-29292-7) describes the application of knowledge graphs to CRISPR screens to identify novel drivers of resistance to cancer treatments**
-- **Happy to join the Editorial Board of [BMC Medical Bioinformatics](https://bmcbioinformatics.biomedcentral.com/about/editorial-board)**
+- **Happy to join the Editorial Board of [BMC Bioinformatics](https://bmcbioinformatics.biomedcentral.com/about/editorial-board)**
 
 ### Connect via
 

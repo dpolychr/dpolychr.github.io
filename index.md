@@ -22,7 +22,7 @@ During the later times of my academic life, I spent two years as an MRC Postdoct
 
 My work spans various fields including medicine (rare diseases and cancer; 100K Genomes Project; DNA replication), AI/ML including [knowledge graphs](https://www.nature.com/articles/s41467-022-29292-7) and algorithm development in biology ([CNEFinder](https://academic.oup.com/bioinformatics/article/34/17/i743/5093238), [CNEr](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1006940), [oncoEnrichR](https://onlinelibrary.wiley.com/doi/full/10.1002/ijc.34666), [avoided words](https://almob.biomedcentral.com/articles/10.1186/s13015-017-0094-z)). It has been published in various peer-reviewed journals including NEJM, Lancet Neurology, Nature, Nature Cancer, Nucleic Acids Research, Genome Research, Bioinformatics.
 
-A copy of my current CV can be found here: [CV](https://drive.google.com/file/d/1lLktIZPEuktqaijkC3p9gcKeGxaUQeQN/view?usp=sharing)
+A copy of my current CV can be found here: [CV](https://drive.google.com/file/d/12D8rZINCCnuzxd9M3wTS94GLuqo4Kssu/view?usp=sharing)
 
 - [Google Scholar](https://scholar.google.com/citations?user=LsI4gg0AAAAJ)
 - [Scopus](https://www.scopus.com/authid/detail.uri?authorId=57211826120)

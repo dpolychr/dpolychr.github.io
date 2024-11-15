@@ -12,7 +12,7 @@ I come from beautiful Greece. Born and raised in Gerakas, Athens, I always feel 
 
 I'm a molecular biologist ([BSc, Democritus University of Thrace](http://www.mbg.duth.gr/)) once trained as an experimentalist ([yeast times...](https://www.embopress.org/doi/10.1038/emboj.2009.226)) and who has since more than a decade now been interested in bioinformatics and computational genomics ([MSc and PhD in Bioinformatics, University of Athens & NCSR "Demokritos"](http://www.demokritos.gr/?lang=en)). 
 
-I am currently Chief Data Officer and co-founder at [CureCollect](https://www.curecollect.com/), with a mission to enable access and to democratise diverse, multi-modal data from the developing world for the benefit of oncology patients globally. 
+I am Chief Data Officer and co-founder at [CureCollect](https://www.curecollect.com/), an early stage biotech with a mission to enable access and to democratise diverse, multi-modal data from the developing world for the benefit of oncology patients globally. 
 
 Prior CureCollect, I was [Ochre Bio](https://www.ochre-bio.com/)'s founding Director of In Silico Biology and Head of Discovery. At Ochre Bio I led a global team of computational scientists with expertise ranging from imaging, statistics, functional & computational regulatory genomics to knowledge graphs, recommendation systems and their applications to drug discovery.
 

@@ -10,7 +10,7 @@ title: Dimitris Polychronopoulos
 <div class="myWrapper" markdown="1">
 I come from beautiful Greece. Born and raised in Gerakas, Athens, I always feel nostalgic when I visit my village Figaleia and the nearby temple of [Apollo Epicurius](https://whc.unesco.org/en/list/392/) in Peloponnese. 
 
-I'm a molecular biologist ([BSc, Democritus University of Thrace](http://www.mbg.duth.gr/)) once trained as an experimentalist ([yeast times...](https://www.embopress.org/doi/10.1038/emboj.2009.226)) and who has since more than a decade now been interested in bioinformatics and computational genomics ([MSc and PhD in Bioinformatics, University of Athens & NCSR "Demokritos"](http://www.demokritos.gr/?lang=en)). 
+I'm a molecular biologist ([BSc, Democritus University of Thrace](http://www.mbg.duth.gr/)) once trained as an experimentalist ([yeast times...](https://www.embopress.org/doi/10.1038/emboj.2009.226)) and who has since almost a couple of decades now been interested in bioinformatics, data science and personalised medicine ([MSc and PhD in Bioinformatics, University of Athens & NCSR "Demokritos"](http://www.demokritos.gr/?lang=en)). 
 
 I am Chief Data Officer and co-founder at [CureCollect](https://www.curecollect.com/), an early stage biotech with a mission to collect, structure and analyse diverse, multi-modal data from the developing world for the benefit of oncology patients globally. 
 

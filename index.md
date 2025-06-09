@@ -32,7 +32,7 @@ A copy of my current CV can be found here: [CV](https://drive.google.com/file/d/
 ### LATEST NEWS
 - **[Our latest publication in Nature Communications](https://www.nature.com/articles/s41467-022-29292-7) describes the application of knowledge graphs to CRISPR screens to identify novel drivers of resistance to cancer treatments**
 - **Happy to join the Editorial Board of [BMC Bioinformatics](https://bmcbioinformatics.biomedcentral.com/about/editorial-board)**
-- ** I've been a reviewer of the book [Automated Machine Learning in Action(https://www.amazon.com/Automated-Machine-Learning-Action-Qingquan/dp/1617298050)], which I thoroughly enjoyed**
+- **I've been a reviewer of the book [Automated Machine Learning in Action(https://www.amazon.com/Automated-Machine-Learning-Action-Qingquan/dp/1617298050)], which I thoroughly enjoyed**
 
 ### Connect via
 

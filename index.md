@@ -25,7 +25,7 @@ Earlier in my career, I spent two years as an MRC Postdoctoral Scientist at the 
 
 My work sits at the intersection of biology, data and AI, with interests spanning genomics, multimodal biological data, computational biology, knowledge graphs, AI/ML and data-driven drug discovery. My research has been published in journals including *NEJM*, *Lancet Neurology*, *Nature*, *Nature Cancer*, *Nucleic Acids Research*, *Genome Research* and *Bioinformatics*.
 
-I have published widely in computational biology and biomedical research, with **6,000+ citations and an h-index of 26**.
+I have published widely in computational biology and biomedical research, with 6,000+ citations and an h-index of 26.
 
 A copy of my current CV can be found [here](https://drive.google.com/file/d/14YYpbpTTSvFXvwWwVdues0qfj605UktX/view?usp=sharing).
 

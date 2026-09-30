@@ -8,26 +8,30 @@ title: Dimitris Polychronopoulos
 
 ### About
 <div class="myWrapper" markdown="1">
-I come from beautiful Greece. Born and raised in Gerakas, Athens, I always feel nostalgic when I visit my village Figaleia and the nearby temple of [Apollo Epicurius](https://whc.unesco.org/en/list/392/) in Peloponnese. 
+I’m a computational biologist and AI/data leader working at the intersection of life sciences, healthcare and technology.
 
-I'm a molecular biologist ([BSc, Democritus University of Thrace](http://www.mbg.duth.gr/)) once trained as an experimentalist ([yeast times...](https://www.embopress.org/doi/10.1038/emboj.2009.226)) and who has since almost a couple of decades now been interested in bioinformatics, data science and personalised medicine ([MSc and PhD in Bioinformatics, University of Athens & NCSR "Demokritos"](http://www.demokritos.gr/?lang=en)). 
+I currently work as an Associate Director within Deloitte’s Life Sciences R&D practice, helping clients address complex R&D and healthcare challenges using AI/ML, data and emerging technologies. My work spans strategy, data and AI architecture, governance, delivery and the translation of emerging technologies into practical capabilities.
 
-I am an Associate Director within the Life Sciences R&D practice at Deloitte, helping clients navigate complex use cases in life sciences using AI/ML and data. Prior Deloitte, I was Chief Data Officer and co-founder at [CureCollect](https://www.curecollect.com/), an early stage biotech with a mission to collect, structure and analyse diverse, multi-modal data from the developing world for the benefit of oncology patients globally. 
+My career has taken me from genomics and academic research, through pharma and biotech, to consulting. I was part of the UK [100,000 Genomes Project](https://en.wikipedia.org/wiki/100,000_Genomes_Project) at [Genomics England](https://www.genomicsengland.co.uk/), where I worked on large-scale genomic data and helped build the infrastructure supporting the [Genomic Medicine Service](https://www.england.nhs.uk/genomics/nhs-genomic-med-service/) in the NHS. I subsequently spent several years in Oncology R&D at [AstraZeneca](https://www.astrazeneca.com/), applying bioinformatics, data science and AI to drug discovery.
 
-I was [Ochre Bio](https://www.ochre-bio.com/)'s founding Director of In Silico Biology and Head of Discovery. At Ochre Bio I built and led a global team of computational scientists with expertise ranging from imaging, statistics, functional & computational regulatory genomics to knowledge graphs, recommendation systems and their applications to drug discovery. 
+I then joined [Ochre Bio](https://www.ochre-bio.com/) as its founding Director of In Silico Biology and Head of Discovery. There I built and led a global, multidisciplinary team of computational scientists working across imaging, statistics, functional and computational genomics, knowledge graphs and AI/ML, with a focus on applying these capabilities to drug discovery.
 
-Prior Ochre Bio, I was an Associate Director, Oncology Bioinformatics & Data Science at [AstraZeneca's](https://www.astrazeneca.com/) Oncology R&D Team in Cambridge where I was responsible for Discovery Data Science efforts with the aim to develop better small-molecule drugs for oncology patients. Before AZ, I worked as a Data Scientist for [Genomics England](https://www.genomicsengland.co.uk/) delivering the [100K Genomes Project](https://en.wikipedia.org/wiki/100,000_Genomes_Project), the [100K Genomes Project Pilot](https://www.nejm.org/doi/full/10.1056/NEJMoa2035790), and helping to build the infrastructure for the [Genomic Medicine Service](https://www.england.nhs.uk/genomics/nhs-genomic-med-service/) in the NHS. 
+I subsequently co-founded [CureCollect](https://www.curecollect.com/) and served as Chief Data Officer, helping build an early-stage biotech focused on collecting, structuring and analysing diverse multimodal data from the developing world for oncology research.
 
-During the later times of my academic life, I spent two years as an MRC Postdoctoral (and now visiting) scientist at [Boris Lenhard's group](http://group.genereg.net/people/alumni/) at the MRC London Institute of Medical Sciences & Imperial College London working on a largely enigmatic class of genomic elements called [Conserved Non-coding Elements (CNEs)](https://academic.oup.com/nar/advance-article/doi/10.1093/nar/gkx1074/4599184). I am also a visiting scientist at the [NCSR Demokritos](http://www.demokritos.gr/?lang=en) where I participate in the [BioASQ project](http://bioasq.org/). 
+I originally trained as a molecular biologist ([BSc, Democritus University of Thrace](http://www.mbg.duth.gr/)) and began my career as an experimental scientist before moving into bioinformatics and computational biology. I subsequently completed an MSc and PhD in Bioinformatics at the [University of Athens](http://www.uoa.gr/) and [NCSR Demokritos](http://www.demokritos.gr/?lang=en).
 
-My work spans various fields including medicine (rare diseases and cancer; 100K Genomes Project; DNA replication), AI/ML including [knowledge graphs](https://www.nature.com/articles/s41467-022-29292-7) and algorithm development in biology ([CNEFinder](https://academic.oup.com/bioinformatics/article/34/17/i743/5093238), [CNEr](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1006940), [oncoEnrichR](https://onlinelibrary.wiley.com/doi/full/10.1002/ijc.34666), [avoided words](https://almob.biomedcentral.com/articles/10.1186/s13015-017-0094-z)). It has been published in various peer-reviewed journals including NEJM, Lancet Neurology, Nature, Nature Cancer, Nucleic Acids Research, Genome Research, Bioinformatics.
+My work sits at the intersection of biology, data and AI, with interests spanning genomics, multimodal biological data, computational biology, knowledge graphs, AI/ML and data-driven drug discovery. My research has been published in journals including *NEJM*, *Lancet Neurology*, *Nature*, *Nature Cancer*, *Nucleic Acids Research*, *Genome Research* and *Bioinformatics*.
 
-A copy of my current CV can be found here: [CV](https://drive.google.com/file/d/14YYpbpTTSvFXvwWwVdues0qfj605UktX/view?usp=sharing)
+I have published widely in computational biology and biomedical research, with **6,000+ citations and an h-index of 26**.
+
+A copy of my current CV can be found [here](https://drive.google.com/file/d/14YYpbpTTSvFXvwWwVdues0qfj605UktX/view?usp=sharing).
 
 - [Google Scholar](https://scholar.google.com/citations?user=LsI4gg0AAAAJ)
 - [Scopus](https://www.scopus.com/authid/detail.uri?authorId=57211826120)
-- [Pubmed](https://pubmed.ncbi.nlm.nih.gov/?term=%28%28Polychronopoulos+D.%29+NOT+2010%5BDate+-+Publication%5D+NOT+1991%5BDate+-+Publication%5D%29+NOT+Drammen%5Baffil%5D&sort=date) 
-- [dblp](https://dblp.uni-trier.de/pers/hd/p/Polychronopoulos:Dimitris)
+- [PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=%28%28Polychronopoulos+D.%29+NOT+2010%5BDate+-+Publication%5D+NOT+1991%5BDate+-+Publication%5D%29+NOT+Drammen%5Baffil%5D&sort=date)
+- [DBLP](https://dblp.uni-trier.de/pers/hd/p/Polychronopoulos:Dimitris)
+
+</div>
 
 ### LATEST NEWS
 - **[Our latest publication in Nature Communications](https://www.nature.com/articles/s41467-022-29292-7) describes the application of knowledge graphs to CRISPR screens to identify novel drivers of resistance to cancer treatments**

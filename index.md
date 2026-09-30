@@ -52,7 +52,7 @@ I come from beautiful Greece. I was born and raised in Gerakas, Athens, and stil
 
 My [Erdős number](https://www.oakland.edu/enp/) is at most 3 via Costas S. Iliopoulos → David E. Daykin → Paul Erdős.
 
-<script type="text/javascript" src="https://www.counters-free.net/count/83si"></script>
-<script type="text/javascript" src="https://whomania.com/ctr?id=96e512959a33011b95d7f2ee8e3c0c0c4feddaaa"></script>
+<script type="text/javascript" src="https://whomania.com/count/kb0a"></script><br>
+ <a href='https://www.acadoo-medizin.com/'>Doktorarbeit Medizin Hilfe</a> <script type='text/javascript' src='https://www.whomania.com/ctr?id=4b57c377ea6ac9bce66c206140d74baed6d3314e'></script>
 
 </div>

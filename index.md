@@ -26,11 +26,6 @@ I have published widely in computational biology and biomedical research, with ~
 
 A copy of my current CV can be found [here](https://drive.google.com/file/d/14YYpbpTTSvFXvwWwVdues0qfj605UktX/view?usp=sharing).
 
-- [Google Scholar](https://scholar.google.com/citations?user=LsI4gg0AAAAJ)
-- [Scopus](https://www.scopus.com/authid/detail.uri?authorId=57211826120)
-- [PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=%28%28Polychronopoulos+D.%29+NOT+2010%5BDate+-+Publication%5D+NOT+1991%5BDate+-+Publication%5D%29+NOT+Drammen%5Baffil%5D&sort=date)
-- [DBLP](https://dblp.uni-trier.de/pers/hd/p/Polychronopoulos:Dimitris)
-
 ### Selected work & publications
 
 - **[Knowledge graphs for CRISPR screens](https://www.nature.com/articles/s41467-022-29292-7)** — applying knowledge graphs to CRISPR screens to identify novel drivers of resistance to cancer treatments.
@@ -45,6 +40,7 @@ A copy of my current CV can be found [here](https://drive.google.com/file/d/14YY
 - [ResearchGate](https://www.researchgate.net/profile/Dimitris_Polychronopoulos)
 - [Scopus](https://www.scopus.com/authid/detail.uri?authorId=57211826120)
 - [PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=%28%28Polychronopoulos+D.%29+NOT+2010%5BDate+-+Publication%5D+NOT+1991%5BDate+-+Publication%5D%29+NOT+Drammen%5Baffil%5D&sort=date)
+- [DBLP](https://dblp.uni-trier.de/pers/hd/p/Polychronopoulos:Dimitris)
 
 ### A little more about me
 
